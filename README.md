@@ -15,7 +15,6 @@ L’ensemble du travail est regroupé dans le notebook [dataset.ipynb](dataset.i
 Ce notebook contient :
 - l’exploration et la préparation du dataset,
 - la visualisation des images et vidéos,
-- le prétraitement des données,
 - l’utilisation de modèles de détection (YOLO / pose estimation),
 - l’analyse des résultats pour la détection de chutes.
 
@@ -23,7 +22,7 @@ Des modèles pré-entraînés sont utilisés pour détecter les personnes et ana
 
 ## Objectif
 
-Ce projet a pour but de fournir une **base fonctionnelle et pédagogique** pour :
+Ce projet a pour but de fournir une base fonctionnelle et pédagogique pour :
 - comprendre la détection de chutes par vision par ordinateur,
 - expérimenter avec des modèles de détection et de pose humaine,
 - analyser des séquences vidéo pour des applications de sécurité.
